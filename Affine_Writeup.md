@@ -31,7 +31,7 @@ Since we have known plaintext values we can caculate the values of a & b
 84 = a(123) + b  for "{"
 ```
 
-Using a simple system of equations, we can caculate the value of a.
+Using a simple system of equations, we can calculate the value of a.
 
 ```
 70 = 2a
